@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/showAllBooksFragment"
+        android:title="All Books"
+        android:icon="@drawable/ic_book"/>
+
+    <item
+        android:id="@+id/wishlistBooksFragment"
+        android:title="Wishlist"
+        android:icon="@drawable/ic_star"/>
+
+    <item
+        android:id="@+id/alreadyReadBooksFragment"
+        android:title="Already Read"
+        android:icon="@drawable/ic_check"/>
+</menu>
